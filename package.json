@@ -1,0 +1,30 @@
+{
+  
+  "name": "melora",
+  
+  "version": "1.0.0",
+  
+  "description": "melora sells good cosmeticts",
+  
+  "license": "MIT",
+  
+  "author": "Mania",
+  
+  "type": "commonjs",
+  
+  "main": "index.js",
+  
+  "scripts": {
+  
+    
+  "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "live-server": "^1.2.2"
+  
+  }
+}
